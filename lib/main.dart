@@ -30,7 +30,7 @@ class MainApp extends StatelessWidget {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   Text("Maximaler ", style: TextStyle(color: Color(0xFFFF073A), fontWeight: FontWeight.bold)),
-                  Text("Augenkrebs", style:  TextStyle(color: Color(0xFF1F51FF), fontWeight: FontWeight.bold))
+                  Text("Augenkrebs", style:  TextStyle(backgroundColor: 	Color(0xFF00FF00),color: Color(0xFF1F51FF), fontWeight: FontWeight.bold))
                 ],
               )
             ],)
